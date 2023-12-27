@@ -10,7 +10,7 @@ var CookieValue = ck.match(/wskey=.+?;/)
 
 data=JSON.parse($response.body)
     data = data.userInfoSns.unickName
-    url = 'iBlack,wskey%E8%8E%B7%E5%8F%96%E6%8F%90%E9%86%92%E6%82%A8'
+    url = 'iBlack%E6%8F%90%E9%86%92%E6%82%A8'
 
 
 
